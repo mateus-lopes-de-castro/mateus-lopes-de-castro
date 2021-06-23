@@ -1,6 +1,6 @@
 ## 📑 My Github Stats:
 
-[![Visits Badge](https://badges.pufler.dev/visits/mateus-lopes-de-castro/my-profile?style=for-the-badge)](https://github.com/mateus-lopes-de-castro/my-profile)
+[![Visits Badge](https://badges.pufler.dev/visits/mateus-lopes-de-castro/mateus-lopes-de-castro?style=for-the-badge)](https://github.com/mateus-lopes-de-castro/mateus-lopes-de-castro)
 ![Repos Badge](https://badges.pufler.dev/repos/mateus-lopes-de-castro?style=for-the-badge)
 
 <p align = "center">
