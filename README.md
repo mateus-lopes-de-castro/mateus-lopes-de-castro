@@ -1,3 +1,19 @@
+# Mateus Lopes de Castro
+
+Desenvolvedor Front-End.
+
+<p>Atuando no desenvolvimento web desde 2014 navegando por tecnologias de HTML, CSS e PHP e Javascript.</p>
+Evoluindo para desenvolvimento de aplicativos híbridos utilizando framework Phonegap.<br>
+Evoluindo para frameworks visando design responsivos como Bootstrap e Materialize.<br>
+Evoluindo no desenvolvimento de aplicações mobile nativas utilizando Java-Android.<br>
+<p>Evoluindo para frameworks utilizando metodologia SPA como Angular e React. </p>
+<br>
+Formação acadêmica<br>
+Análise e Desenvolvimento de Sistemas<br>
+Pós Data Science (em andamento)
+
+[![Twitter Badge](https://img.shields.io/badge/-@MLC_Mateus-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/MLC_Mateus)](https://twitter.com/MLC_Mateus)
+
 ## 📑 My Github Stats:
 
 [![Visits Badge](https://badges.pufler.dev/visits/mateus-lopes-de-castro/mateus-lopes-de-castro?style=for-the-badge)](https://github.com/mateus-lopes-de-castro/mateus-lopes-de-castro)
