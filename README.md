@@ -18,7 +18,8 @@ Pós Data Science (em andamento)
 ## 📑 My Github Stats:
 
 [![Visits Badge](https://badges.pufler.dev/visits/mateus-lopes-de-castro/mateus-lopes-de-castro?style=for-the-badge)](https://github.com/mateus-lopes-de-castro/mateus-lopes-de-castro)
-![Repos Badge](https://badges.pufler.dev/repos/mateus-lopes-de-castro?style=for-the-badge)
+
+[![Repos Badge](https://badges.pufler.dev/repos/mateus-lopes-de-castro?style=for-the-badge&logo=github)](https://badges.pufler.dev)
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mateus-lopes-de-castro&show_icons=true&theme=algolia&line_height=27">
