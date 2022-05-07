@@ -11,7 +11,7 @@ Evoluindo no desenvolvimento de aplicações mobile nativas utilizando Java-Andr
 
 Formação acadêmica<br>
 Análise e Desenvolvimento de Sistemas<br>
-Pós Data Science
+Pós Data Science<br>
 Extensão em Data Science, IA e Big Data: Como usar estas tecnologias para negócios?
 
 [![Twitter Badge](https://img.shields.io/badge/-@MLC_Mateus-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/MLC_Mateus)](https://twitter.com/MLC_Mateus)
